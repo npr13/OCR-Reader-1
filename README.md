@@ -1,8 +1,5 @@
 # OCR-Reader
-An Android app to extract text from camera preview directly.
-
-## Download
-Download app from [here](https://github.com/DevipriyaSarkar/OCR-Reader/releases).
+An Android app to extract text from camera and analyze the Mood Of Text Using Tone Analyzer.
 
 ## Screenshots
 <img src="screenshots/screenshot1.png" width="360" alt="Main Screen" >
